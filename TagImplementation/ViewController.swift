@@ -1,10 +1,7 @@
-//
 //  ViewController.swift
 //  TagImplementation
-//
 //  Created by Ranjeet Raushan on 26/05/19.
 //  Copyright © 2019 vaayoo. All rights reserved.
-//
 
 import UIKit
 import  WSTagsField
